@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="345b345a-d31d-4039-8c55-38f2789496ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GdMBM5pH5d0CjkPcPY7nrfWvqX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345b345a-d31d-4039-8c55-38f2789496ee" name="Changes" comment="" />
+      <created>1666713871052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666713871052</updated>
+      <workItem from="1666713872582" duration="124000" />
+      <workItem from="1666714034904" duration="892000" />
+      <workItem from="1666714950983" duration="45000" />
+      <workItem from="1666715029051" duration="66000" />
+      <workItem from="1666715151571" duration="5177000" />
+      <workItem from="1666754029844" duration="466000" />
+      <workItem from="1666754546175" duration="13000" />
+      <workItem from="1666754606436" duration="192000" />
+      <workItem from="1666754851776" duration="1218000" />
+      <workItem from="1666756579309" duration="115000" />
+      <workItem from="1666756725897" duration="3607000" />
+      <workItem from="1666775511887" duration="9000" />
+      <workItem from="1667944253402" duration="521000" />
+      <workItem from="1667944832721" duration="66000" />
+      <workItem from="1667944936895" duration="52000" />
+      <workItem from="1667945070576" duration="12303000" />
+      <workItem from="1667964743611" duration="1858000" />
+      <workItem from="1667967109719" duration="9011000" />
+      <workItem from="1667976377978" duration="5134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
